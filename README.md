@@ -22,7 +22,7 @@ limitations under the License.
 
 [![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] <!-- [![dependencies][dependencies-image]][dependencies-url] -->
 
-> Convert a string to Header case.
+> Convert a string to HTTP header case.
 
 <!-- Package usage documentation. -->
 
@@ -54,7 +54,7 @@ var headercase = require( '@stdlib/string-base-headercase' );
 
 #### headercase( str )
 
-Converts a string to Header case.
+Converts a string to HTTP header case.
 
 ```javascript
 var out = headercase( 'foo bar' );
