@@ -117,6 +117,14 @@ out = headercase( str );
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   <span class="package-name">[`@stdlib/string-base/camelcase`][@stdlib/string/base/camelcase]</span><span class="delimiter">: </span><span class="description">convert a string to camel case.</span>
+-   <span class="package-name">[`@stdlib/string-base/pascalcase`][@stdlib/string/base/pascalcase]</span><span class="delimiter">: </span><span class="description">convert a string to Pascal case.</span>
+-   <span class="package-name">[`@stdlib/string-base/uppercase`][@stdlib/string/base/uppercase]</span><span class="delimiter">: </span><span class="description">convert a string to uppercase.</span>
+
 </section>
 
 <!-- /.related -->
@@ -192,6 +200,16 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 [branches-url]: https://github.com/stdlib-js/string-base-headercase/blob/main/branches.md
 
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/string-base-headercase/main/LICENSE
+
+<!-- <related-links> -->
+
+[@stdlib/string/base/camelcase]: https://github.com/stdlib-js/string-base-camelcase
+
+[@stdlib/string/base/pascalcase]: https://github.com/stdlib-js/string-base-pascalcase
+
+[@stdlib/string/base/uppercase]: https://github.com/stdlib-js/string-base-uppercase
+
+<!-- </related-links> -->
 
 </section>
 
